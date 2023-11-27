@@ -1,0 +1,2 @@
+# SKINCARE-ROUTINE-RECOMMENDATION-SYSTEM
+This project utilizes a Tkinter-based user interface to recommend skincare treatments and routines based on user-inputted skin type and concerns. It integrates a RandomForestClassifier model trained on a skincare dataset to provide personalized recommendations, displaying the recommended treatment along with morning (AM) and evening (PM) skincare routines. The user interacts with the graphical interface to receive tailored skincare advice.
